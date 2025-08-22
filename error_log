@@ -1,0 +1,46 @@
+[10-Sep-2024 18:33:47 Asia/Kolkata] PHP Fatal error:  require_once(): Failed opening required 'Zend/Loader.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/retailminkchatte/public_html/swan/application/third_party/Zend/Barcode.php on line 178
+[10-Sep-2024 18:34:24 Asia/Kolkata] PHP Fatal error:  require_once(): Failed opening required 'Zend/Loader.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/retailminkchatte/public_html/swan/application/third_party/Zend/Barcode.php on line 178
+[10-Sep-2024 18:34:39 Asia/Kolkata] PHP Fatal error:  require_once(): Failed opening required 'Zend/Loader.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/retailminkchatte/public_html/swan/application/third_party/Zend/Barcode.php on line 178
+[10-Sep-2024 18:34:43 Asia/Kolkata] PHP Fatal error:  require_once(): Failed opening required 'Zend/Loader.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/retailminkchatte/public_html/swan/application/third_party/Zend/Barcode.php on line 178
+[27-Dec-2024 07:57:00 UTC] PHP Fatal error:  Cannot redeclare Expence_model::count_filtered() in /home/retailminkchatte/public_html/swan/application/models/Expence_model.php on line 76
+[27-Dec-2024 07:57:19 UTC] PHP Fatal error:  Cannot redeclare Expence_model::count_filtered() in /home/retailminkchatte/public_html/swan/application/models/Expence_model.php on line 76
+[14-Jan-2025 03:39:52 UTC] PHP Fatal error:  Cannot redeclare Pos::testadd_posale() in /home/retailminkchatte/public_html/swan/application/controllers/Pos.php on line 197
+[14-Jan-2025 03:39:55 UTC] PHP Fatal error:  Cannot redeclare Pos::testadd_posale() in /home/retailminkchatte/public_html/swan/application/controllers/Pos.php on line 197
+[14-Jan-2025 04:07:43 UTC] PHP Fatal error:  Cannot redeclare Pos::testadd_posale() in /home/retailminkchatte/public_html/swan/application/controllers/Pos.php on line 197
+[14-Jan-2025 04:07:47 UTC] PHP Fatal error:  Cannot redeclare Pos::testadd_posale() in /home/retailminkchatte/public_html/swan/application/controllers/Pos.php on line 197
+[14-Jan-2025 04:07:55 UTC] PHP Fatal error:  Cannot redeclare Pos::testadd_posale() in /home/retailminkchatte/public_html/swan/application/controllers/Pos.php on line 197
+[14-Jan-2025 04:09:18 UTC] PHP Fatal error:  Cannot redeclare Pos::testadd_posale() in /home/retailminkchatte/public_html/swan/application/controllers/Pos.php on line 197
+[14-Jan-2025 04:09:45 UTC] PHP Fatal error:  Cannot redeclare Pos::testadd_posale() in /home/retailminkchatte/public_html/swan/application/controllers/Pos.php on line 197
+[14-Jan-2025 04:10:30 UTC] PHP Fatal error:  Cannot redeclare Pos::testadd_posale() in /home/retailminkchatte/public_html/swan/application/controllers/Pos.php on line 197
+[14-Jan-2025 04:11:02 UTC] PHP Fatal error:  Cannot redeclare Pos::testadd_posale() in /home/retailminkchatte/public_html/swan/application/controllers/Pos.php on line 197
+[14-Jan-2025 04:12:03 UTC] PHP Fatal error:  Cannot redeclare Pos::testadd_posale() in /home/retailminkchatte/public_html/swan/application/controllers/Pos.php on line 197
+[14-Jan-2025 04:13:25 UTC] PHP Fatal error:  Cannot redeclare Pos::testadd_posale() in /home/retailminkchatte/public_html/swan/application/controllers/Pos.php on line 197
+[14-Jan-2025 04:13:55 UTC] PHP Fatal error:  Cannot redeclare Pos::testadd_posale() in /home/retailminkchatte/public_html/swan/application/controllers/Pos.php on line 197
+[14-Jan-2025 04:16:48 UTC] PHP Fatal error:  Cannot redeclare Pos::testadd_posale() in /home/retailminkchatte/public_html/swan/application/controllers/Pos.php on line 197
+[14-Jan-2025 04:16:54 UTC] PHP Fatal error:  Cannot redeclare Pos::testadd_posale() in /home/retailminkchatte/public_html/swan/application/controllers/Pos.php on line 197
+[14-Jan-2025 04:16:55 UTC] PHP Fatal error:  Cannot redeclare Pos::testadd_posale() in /home/retailminkchatte/public_html/swan/application/controllers/Pos.php on line 197
+[14-Jan-2025 04:16:56 UTC] PHP Fatal error:  Cannot redeclare Pos::testadd_posale() in /home/retailminkchatte/public_html/swan/application/controllers/Pos.php on line 197
+[14-Jan-2025 04:16:57 UTC] PHP Fatal error:  Cannot redeclare Pos::testadd_posale() in /home/retailminkchatte/public_html/swan/application/controllers/Pos.php on line 197
+[14-Jan-2025 04:16:58 UTC] PHP Fatal error:  Cannot redeclare Pos::testadd_posale() in /home/retailminkchatte/public_html/swan/application/controllers/Pos.php on line 197
+[14-Jan-2025 04:17:27 UTC] PHP Fatal error:  Cannot redeclare Pos::testadd_posale() in /home/retailminkchatte/public_html/swan/application/controllers/Pos.php on line 197
+[14-Jan-2025 04:18:11 UTC] PHP Fatal error:  Cannot redeclare Pos::testadd_posale() in /home/retailminkchatte/public_html/swan/application/controllers/Pos.php on line 198
+[14-Jan-2025 04:24:39 UTC] PHP Fatal error:  Cannot redeclare Pos::testadd_posale() in /home/retailminkchatte/public_html/swan/application/controllers/Pos.php on line 196
+[14-Jan-2025 04:24:58 UTC] PHP Fatal error:  Cannot redeclare Pos::testadd_posale() in /home/retailminkchatte/public_html/swan/application/controllers/Pos.php on line 196
+[14-Jan-2025 04:25:20 UTC] PHP Fatal error:  Cannot redeclare Pos::testadd_posale() in /home/retailminkchatte/public_html/swan/application/controllers/Pos.php on line 196
+[14-Jan-2025 04:25:34 UTC] PHP Fatal error:  Cannot redeclare Pos::testadd_posale() in /home/retailminkchatte/public_html/swan/application/controllers/Pos.php on line 196
+[14-Jan-2025 04:27:02 UTC] PHP Fatal error:  Cannot redeclare Pos::testadd_posale() in /home/retailminkchatte/public_html/swan/application/controllers/Pos.php on line 196
+[27-Jan-2025 10:15:57 UTC] PHP Fatal error:  Cannot use [] for reading in /home/retailminkchatte/public_html/swan/application/controllers/Pos.php on line 596
+[28-Jan-2025 19:25:33 UTC] PHP Fatal error:  Cannot use [] for reading in /home/retailminkchatte/public_html/swan/application/controllers/Pos.php on line 1052
+[28-Jan-2025 19:29:08 UTC] PHP Fatal error:  Cannot use [] for reading in /home/retailminkchatte/public_html/swan/application/controllers/Pos.php on line 1052
+[29-Jan-2025 19:22:21 UTC] PHP Fatal error:  Cannot redeclare Orderstatus::index() in /home/retailminkchatte/public_html/swan/application/controllers/Orderstatus.php on line 179
+[29-Jan-2025 19:22:40 UTC] PHP Fatal error:  Cannot redeclare Orderstatus::index() in /home/retailminkchatte/public_html/swan/application/controllers/Orderstatus.php on line 179
+[08-Feb-2025 20:16:28 UTC] PHP Fatal error:  Cannot redeclare Pos::generate() in /home/retailminkchatte/public_html/swan/application/controllers/Pos.php on line 1439
+[08-Feb-2025 20:16:32 UTC] PHP Fatal error:  Cannot redeclare Pos::generate() in /home/retailminkchatte/public_html/swan/application/controllers/Pos.php on line 1439
+[08-Feb-2025 20:16:34 UTC] PHP Fatal error:  Cannot redeclare Pos::generate() in /home/retailminkchatte/public_html/swan/application/controllers/Pos.php on line 1439
+[04-Mar-2025 17:20:07 UTC] PHP Fatal error:  Cannot re-assign auto-global variable _POST in /home/laundrokleanmesh/public_html/software/application/models/Sale_model.php on line 222
+[04-Mar-2025 17:20:14 UTC] PHP Fatal error:  Cannot re-assign auto-global variable _POST in /home/laundrokleanmesh/public_html/software/application/models/Sale_model.php on line 222
+[04-Mar-2025 17:20:19 UTC] PHP Fatal error:  Cannot re-assign auto-global variable _POST in /home/laundrokleanmesh/public_html/software/application/models/Sale_model.php on line 222
+[04-Mar-2025 17:21:23 UTC] PHP Fatal error:  Cannot re-assign auto-global variable _POST in /home/laundrokleanmesh/public_html/software/application/models/Sale_model.php on line 222
+[28-Apr-2025 09:09:54 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/laundrokleanmesh/public_html/software/application/third_party/mpdf/mpdf.php on line 24937
+[01-May-2025 17:14:08 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/laundrokleanmesh/public_html/software/application/third_party/mpdf/mpdf.php on line 24937
+[02-May-2025 17:56:23 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/laundrokleanmesh/public_html/software/application/third_party/mpdf/mpdf.php on line 24937
